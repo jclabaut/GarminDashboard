@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  GarminDashboard
+//  GarminDashboard2
 //
 //  Created by JEREMIE CLABAUT on 06/02/2026.
 //
